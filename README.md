@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-handle)
 
-**Kyiv, Ukraine** &nbsp;·&nbsp; open to remote (worldwide) &nbsp;·&nbsp; +380&nbsp;96&nbsp;834&nbsp;4321
+**Kyiv, Ukraine** &nbsp;·&nbsp; open to remote (worldwide) &nbsp;·&nbsp;
 
 </div>
 
